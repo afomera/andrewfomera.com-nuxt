@@ -1,6 +1,6 @@
-# nuxt-test
+# AndrewFomera.com
 
-> My rad Nuxt.js project
+This repository holds the code for AndrewFomera.com, built using Nuxt.js/Vue and contains a little about me and my blog articles. 
 
 ## Build Setup
 

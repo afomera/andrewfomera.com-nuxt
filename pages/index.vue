@@ -11,11 +11,11 @@
       <div class="text-center">
         <h3>Hey there, I'm Andrew Fomera 🙌.</h3>
         <h5 class="text-muted">
-          I'm a full-stack Software Engineer.
-          I currently
+          I'm a full-stack Software Engineer, living in Alabama.
+          <!--I currently
           <a
             href="https://proctoru.com"
-            target="_blank">work @ ProctorU.</a>
+            target="_blank">work @ ProctorU.</a>-->
         </h5>
 
         <nuxt-link

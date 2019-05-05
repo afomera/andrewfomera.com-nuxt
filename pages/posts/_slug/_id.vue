@@ -1,7 +1,7 @@
 <template>
   <div class="row mt-5">
-    <div class="col-md-12 align-items-center justify-content-center d-flex">
-      <div>
+    <div class="col-sm-12 align-items-center justify-content-center d-flex">
+      <div class="col-sm-12">
         <h3 class="text-center">{{ post.title }}</h3>
         <h5 class="text-center text-muted mb-3">Posted on: {{ post.created_at }}</h5>
 

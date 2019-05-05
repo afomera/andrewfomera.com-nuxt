@@ -1,6 +1,16 @@
 const state = {
   posts: [
     {
+      id: 15,
+      slug: 'railsconf-2019',
+      title: 'RailsConf 2019',
+      created_at: '05/05/2019',
+      meta: {
+        id: 15,
+        name: 'RailsConf 2019'
+      }
+    },
+    {
       id: 14,
       slug: 'experience-upgrading-to-rails-5',
       title: 'Experience: Upgrading to Rails 5',
